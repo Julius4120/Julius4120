@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bello Abdulbasit Olamide, and I'm a full-stack Python developer.<br>I specialize in building backend systems with Flask and PostgreSQL, automating workflows with Selenium and BeautifulSoup, and watching anime.<br>I'm currently exploring APIs, web security, and advanced backend development.</h2>
+<h2 align="left">Hello 👋! My name is Bello Abdulbasit Olamide, a Python developer.<br>I specialize in building amazing and scalable backend systems, automating workflows, and a little bit of frontend.</h2>
 
 ###
 
