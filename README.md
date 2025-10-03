@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Bello Abdulbasit Olamide, a Python developer.<br>I specialize in building amazing and scalable backend systems, automating workflows, and a little bit of frontend.</h2>
+<h2 align="left">Hello 👋! My name is Bello Abdulbasit Olamide, a curious Python developer.<br>I specialize in building amazing and scalable backend systems, automating workflows, and a little bit of frontend.</h2>
 
 ###
 
