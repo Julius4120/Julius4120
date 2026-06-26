@@ -9,7 +9,7 @@ I do not really consider myself a programmer, I just write code to solve real pr
 `Python` `Flask` `REST APIs` `BeautifulSoup` `Selenium` `Requests`  `PostgreSQL` 
 
 **Frontend**
-`HTML` `CSS` `JavaScript` `GSAP`
+`HTML` `CSS` `JavaScript` `GSAP` `React` 
 
 **Currently Learning**
 `Dart` `Flutter`
